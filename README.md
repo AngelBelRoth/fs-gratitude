@@ -29,4 +29,5 @@ Created by **Angel Bel Roth**.
 - **Deployment:** Render  
 - **Version Control:** Git & GitHub
 
-
+<img width="1600" height="782" alt="Screenshot 2025-11-09 at 20 24 27" src="https://github.com/user-attachments/assets/869ea828-d235-4f2b-a8ab-26e5cf9139cc" />
+<img width="1600" height="781" alt="Screenshot 2025-11-09 at 20 25 26" src="https://github.com/user-attachments/assets/31d81d49-22a5-45c8-8aa9-bf06439578f4" />
