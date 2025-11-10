@@ -20,7 +20,7 @@ Created by **Angel Bel Roth**.
 
 ## 🔗 Live Demo
 
-👉 [**View App on Render**](https://gratitude-fm6b.onrender.com)
+[**View App on Render**](https://gratitude-fm6b.onrender.com)
 
 ## 🛠️ Tech Stack
 
@@ -28,6 +28,4 @@ Created by **Angel Bel Roth**.
 - **Frontend:** EJS templates, HTML, CSS  
 - **Deployment:** Render  
 - **Version Control:** Git & GitHub
-
-npm start
 
