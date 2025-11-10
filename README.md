@@ -17,7 +17,6 @@ Created by **Angel Bel Roth**.
 ## ✨ Overview
 
 **Gratitude Journal** helps you reflect on what you’re grateful for — daily or anytime you need a perspective reset.  
-It’s built with Node.js, Express, and EJS, and deployed on [Render](https://render.com).
 
 ## 🔗 Live Demo
 
@@ -30,16 +29,5 @@ It’s built with Node.js, Express, and EJS, and deployed on [Render](https://re
 - **Deployment:** Render  
 - **Version Control:** Git & GitHub
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v14+)
-- npm
-
-### Installation
-
-```bash
-git clone https://github.com/AngelBelRoth/fs-gratitude.git
-cd fs-gratitude
-npm install
 npm start
+
