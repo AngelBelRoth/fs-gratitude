@@ -11,7 +11,7 @@
 
 ---
 
-A warm and simple web application for tracking and sharing gratitude.  
+A warm and simple full-stack web application for tracking and sharing gratitude.  
 Created by **Angel Bel Roth**.
 
 ## ✨ Overview
@@ -28,4 +28,5 @@ Created by **Angel Bel Roth**.
 - **Frontend:** EJS templates, HTML, CSS  
 - **Deployment:** Render  
 - **Version Control:** Git & GitHub
+
 
